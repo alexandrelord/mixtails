@@ -1,48 +1,40 @@
-# ___Project Proposal___
+# Mixtails
 
-<!-- ## Project Proposal -->
+## The App
 
-You ever feel like you can't choose what to drink?
+You ever feel like you can't choose what to drink? Mixtails' got your back. It combines music, cocktails, and mood. It was built using the MERN-stack.
 
-### __Welcome to Mixtails__
-#### By: <u>___Fetch 75___</u>
-![Team](./public/Screen%20Shot%202022-06-09%20at%206.42.35%20PM.png)
+## Team Fetch 75
+* Alexandre Lord [github](https://github.com/alexandrelord)
+* Jamie Pantling [github](https://github.com/jamiepantling)
+* Benny Yang [github](https://github.com/Rightanglewrong)
 
-# App name: Mixtails
+## Images
+#### Main Page
+<img src="project-images/main_page.png" width=100% />
 
-# Getting Started
-### <u>Trello</u>
-[Link](https://trello.com/b/Qon5Qeby/project-4)
+#### Moods Page
+<img src="project-images/moods_1.png" width=100% />
+<img src="project-images/moods_2.png" width=100% />
+<br>
 
-### App <u>[Here](https://mixtails.herokuapp.com/home)</u>
-## <u>Technologies Used:</u>
+#### Cocktails Page
+<img src="project-images/cocktails.png" width=100% />
+<br>
+
+#### Sign Up Form
+<img src="project-images/sign_up.png" width=100% />
+
+
+## Technologies
 * React
 * Express
 * Node.js
 * Mongodb 
 * HTML/CSS 
 
-## <u>Screenshots of our app in the wild</u>
-### Home Page
-![shot1](./public/Screenshot1.png)
-### Moods Page
-![shot2](./public/Screenshot2.png)
-### Flavours Page
-![shot3](./public/Screenshot3.png)
-
-## <u>Freezer Features</u>
+## Freezer Features
 * Improve responsiveness of website
-* Create a Cocktail Show Page for people to be able share cocktail recipe and info
-* Hitting the Spotify Api 
-* Add AWS
-* Implement Weather API and sort drinks by weather at your location
-
-
-## <u>Proposal ERD and Wireframe</u>
-### <u>ERD</u>
-
-![ERD](./public/Project%204.png)
-
-### <u>Wireframe</u>
-
-![Wireframe](./public/Mixtails.jpg)
+* * Hitting the Spotify API
+* Create a Cocktail Show Page for users to share cocktail recipes
+* Implement Weather API and sort drinks by weather based on your location

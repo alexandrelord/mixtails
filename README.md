@@ -20,10 +20,6 @@ You ever feel like you can't choose what to drink? Mixtails' got your back. It c
 #### Cocktails Page
 <img src="project-images/cocktails.png" width=100% />
 
-#### Sign Up Form
-<img src="project-images/sign_up.png" width=100% />
-
-
 ## Technologies
 * React
 * Express
